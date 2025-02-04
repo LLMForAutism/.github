@@ -1,2 +1,1 @@
-# .github
-Organization profile
+Our project develops a mobile app powered by Large Language Models (LLMs) to support children with autism. The app aims to enhance communication, social skills, and emotional understanding through personalized, interactive experiences.
